@@ -7,6 +7,9 @@ public class Application {
 		System.out.println("하이");
 		System.out.println("두번째 푸쉬");
 		
+		System.out.println("기능 반영 ㄱㄱ");
+		
+		System.out.println("소스트리로 ㄱㄱ");
 	}
 
 }
