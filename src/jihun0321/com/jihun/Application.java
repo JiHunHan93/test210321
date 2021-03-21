@@ -9,6 +9,7 @@ public class Application {
 		
 		System.out.println("기능 반영 ㄱㄱ");
 		
+		System.out.println("소스트리로 ㄱㄱ");
 	}
 
 }
